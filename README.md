@@ -1,4 +1,4 @@
-build-swf-or-ipa-or-apk-from-as3-in-linux
+Build swf, ipa or apk from AS3 in linux
 =========================================
 
-Workflow to compile as3 files into swf, ipa and apk.
+Workflow to compile AS3 files into swf, ipa or apk.
