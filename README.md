@@ -25,6 +25,8 @@ AS3 to SWF
 
 1.1.- Use the mxmlc binary to compile AS files into swf
 
+	mxmlc input.as -o output.swf
+
 2.- Embed the swf into an HTML document
 
 	<object width="100" height="100">
@@ -34,6 +36,8 @@ AS3 to SWF
 	</object>
 
 3.- Bear in mind the code given in the URL might not show in HTML depending on the width and height you give it, so don't forget to include the flex syntax in your as code.
+
+	[SWF(width='100',height='100', frameRate='30')]
 
 4.- Voila! Now you can create some awesome AS3 websites from linux!
 
