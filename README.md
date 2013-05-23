@@ -39,9 +39,9 @@ AS3 to SWF
 
 5.- Extra References
 
-	5.1.- https://blogs.warwick.ac.uk/ahazelden/entry/as3_flash_dev/
+5.1.- https://blogs.warwick.ac.uk/ahazelden/entry/as3_flash_dev/
 
-	5.2.- http://dl.dropboxusercontent.com/u/7898392/actionscript_compile_guide.txt
+5.2.- http://dl.dropboxusercontent.com/u/7898392/actionscript_compile_guide.txt
 
 
 AS3 to IPA
