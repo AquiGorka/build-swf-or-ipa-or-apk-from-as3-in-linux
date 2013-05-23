@@ -9,11 +9,11 @@ Setting up the development enviroment
 
 1.- Download Flex SDK: http://download.macromedia.com/pub/flex/sdk/flex_sdk_4.6.zip
 
-	1.1.- Good starting point to learn: http://www.adobe.com/products/flex/faq.html
+1.1.- Good starting point to learn: http://www.adobe.com/products/flex/faq.html
 
 2.- http://distriqt.com/post/80 - [first part]
 
-	2.1.- Basically what you want to do here is add mxmlc binary to your PATH
+2.1.- Basically what you want to do here is add mxmlc binary to your PATH
 
 3.- Use your favorite editor to code AS3 files
 
@@ -23,7 +23,7 @@ AS3 to SWF
 
 1.- http://distriqt.com/post/80 - [second part]
 
-	1.1.- Use the mxmlc binary to compile as into swf
+1.1.- Use the mxmlc binary to compile AS files into swf
 
 2.- Embed the swf into an HTML document
 
