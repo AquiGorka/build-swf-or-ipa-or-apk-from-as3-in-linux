@@ -51,17 +51,30 @@ AS3 to SWF
 AS3 to IPA
 =========================================
 
-Coming soon...
+You will need Air SDK for linux, but Adobe stop distributing it in version AIR 2.6. In order to create an ipa that includes newer features (with newer versions of the SDK you will have to do so in Windows or OSX).
+
+http://helpx.adobe.com/air/kb/archived-air-sdk-version.html
+
+For reference I will update this readme with the command line script to create an ipa using the last version Adobe released for linux.
 
 
 AS3 to APK
 =========================================
 
-Coming soon...
+I believe same thing applies here as it did for "AS3 to IPA" but I will update this readme as soon as I have done some research...
+
 
 DEBUG
 =========================================
 
-Coming soon...
+Pretty much depending on how you set un your development enviroment, what I usually do is create a fully working swf that I can test via browser and in order to test features only available to devices I usually deploy to the device.
+
+For in swf (works in device as well) debugging I recommend: SWF Profiler and Movie Monitor
+
+SWF Profiler: http://www.flashdynamix.com/downloads/SWFProfiler.zip
+
+Movie Monitor: http://www.emanueleferonato.com/2011/09/01/moviemonitor-an-as3-performance-monitor-with-10-1-features/
+
+If you are using Flash IDE you should definitely checkout Demonster Debugger:
 
 http://demonsterdebugger.com/downloads
