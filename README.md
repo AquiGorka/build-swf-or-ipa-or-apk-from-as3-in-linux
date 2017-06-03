@@ -1,11 +1,9 @@
-Build swf, ipa or apk from AS3 in linux
-=========================================
+# Build swf, ipa or apk from AS3 in linux
 
 Workflow to compile AS3 files into swf, ipa or apk.
 
 
-Setting up the development enviroment
-=========================================
+## Setting up the development enviroment
 
 1.- Download Flex SDK: http://download.macromedia.com/pub/flex/sdk/flex_sdk_4.6.zip
 
@@ -18,8 +16,7 @@ Setting up the development enviroment
 3.- Use your favorite editor to code AS3 files
 
 
-AS3 to SWF
-=========================================
+### AS3 to SWF
 
 1.- http://distriqt.com/post/80 - [second part]
 
@@ -48,8 +45,7 @@ AS3 to SWF
 5.2.- http://dl.dropboxusercontent.com/u/7898392/actionscript_compile_guide.txt
 
 
-AS3 to IPA
-=========================================
+### AS3 to IPA
 
 You will need Air SDK for linux, but Adobe stop distributing it in version AIR 2.6. In order to create an ipa that includes newer features (with newer versions of the SDK you will have to do so in Windows or OSX).
 
@@ -58,14 +54,12 @@ http://helpx.adobe.com/air/kb/archived-air-sdk-version.html
 For reference I will update this readme with the command line script to create an ipa using the last version Adobe released for linux.
 
 
-AS3 to APK
-=========================================
+### AS3 to APK
 
 I believe same thing applies here as it did for "AS3 to IPA" but I will update this readme as soon as I have done some research...
 
 
-DEBUG
-=========================================
+#### DEBUG
 
 Pretty much depending on how you set un your development enviroment, what I usually do is create a fully working swf that I can test via browser and in order to test features only available to devices I usually deploy to the device.
 
